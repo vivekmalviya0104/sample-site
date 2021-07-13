@@ -1,8 +1,8 @@
-# Basic Site Template
+# Sample Site Template
 
 This is the basic site template for Adobe Experience Manager as a Cloud Service (AEMaaCS).
 
-<img src="previews/site.png?raw=true" alt="Basic site preview" width="50%">
+<img src="previews/site.png?raw=true" alt="Sample site preview" width="50%">
 
 It can serve as a most basic starting point for creating a new site, or as a staring point for creating custom site templates.
 
@@ -48,7 +48,7 @@ Run `Build and release` GitHub workflow and provide the semantic version you're 
 
 - Build Site Template
 - Release latest version on github
-- Commit, build and release latest Site Theme related changes in [Site Theme E2E Repo](https://github.com/vivekmalviya0104/sample-site-theme).
+- Commit, build and release latest Site Theme related changes in [Site Theme Repo](https://github.com/vivekmalviya0104/sample-site-theme).
 
 ## Contributing
 
