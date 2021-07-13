@@ -48,7 +48,7 @@ Run `Build and release` GitHub workflow and provide the semantic version you're 
 
 - Build Site Template
 - Release latest version on github
-- Commit, build and release latest Site Theme related changes in [Site Theme E2E Repo](https://github.com/adobe/sample-site-theme-e2e).
+- Commit, build and release latest Site Theme related changes in [Site Theme E2E Repo](https://github.com/vivekmalviya0104/sample-site-theme).
 
 ## Contributing
 
